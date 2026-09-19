@@ -1,0 +1,25 @@
+# Web Framework & Server
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+python-multipart
+
+# Database & ORM
+sqlalchemy
+geoalchemy2
+psycopg2-binary
+sqlmodel
+
+# Spatial & GPX Telemetry Processing
+shapely
+gpxpy
+
+# AI & LLM Engine
+google-genai
+
+# Interactive Frontend Dashboard
+streamlit
+plotly
+pydeck
+httpx

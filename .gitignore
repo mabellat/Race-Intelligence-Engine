@@ -1,0 +1,22 @@
+# Environment & Secrets
+.env
+.env.*
+
+# Python Cache & Build
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+venv/
+.venv/
+env/
+miniconda3/
+
+# IDE Configuration
+.vscode/
+.idea/
+
+# OS Specific
+.DS_Store
