@@ -2,9 +2,9 @@ import streamlit as st
 import httpx
 import plotly.express as px
 import gpxpy
-
+import os
 # Pointing to our FastAPI Backend
-API_URL = "http://127.0.0.1:8000/api/v1/pacing/generate-strategy"
+API_URL = os.getenv("API_URL", "http://localhost:8000/strategy")  # Default to local if not set
 
 st.set_page_config(
     page_title="Race Intelligence Engine",
