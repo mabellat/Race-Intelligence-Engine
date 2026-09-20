@@ -11,6 +11,9 @@
 > A production-ready, full-stack spatial engineering platform that parses raw 3D GPX track telemetry, computes terrain profiles via PostGIS spatial primitives, and synthesizes LLM-driven race execution plans.
 
 ---
+## Demonstration
+
+https://github.com/mabellat/Race-Intelligence-Engine/issues/1#issue-5516174096
 
 ## 💡 System Context & Motivation
 
