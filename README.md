@@ -13,7 +13,7 @@
 ---
 ## Demonstration
 
-https://github.com/mabellat/Race-Intelligence-Engine/issues/1#issue-5516174096
+[https://github.com/mabellat/Race-Intelligence-Engine/issues/1#issue-5516174096](https://github.com/user-attachments/assets/53e79d8f-d038-4ee4-81f9-5e918a96b33f)
 
 ## 💡 System Context & Motivation
 
